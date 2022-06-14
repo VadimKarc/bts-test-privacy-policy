@@ -7,7 +7,7 @@ We have not programmed this app to collect any personally identifiable informati
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
 Yours sincerely, JustCircle Prod.
-justcircleprod@gmail.com@gmail.com
+justcircleprod@gmail.com
 
 
 
@@ -20,4 +20,4 @@ BTS Тест — это приложение для Android, разработа�
 Если вы обнаружите какую-либо уязвимость в системе безопасности, которая была случайно вызвана нами, или у вас возникнут вопросы относительно того, как приложение защищает вашу конфиденциальность, отправьте нам электронное письмо, и мы обязательно постараемся исправить это или помочь вам.
 
 С уважением, JustCircle Prod.
-justcircleprod@gmail.com@gmail.com
+justcircleprod@gmail.com
